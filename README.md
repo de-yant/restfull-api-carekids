@@ -24,7 +24,7 @@ open your terminal, go to the directory that you will install this project, then
 ```bash
 git clone https://github.com/de-yant/restfull-api-carekids.git
 
-cd sistem-inventarisasi-sarana-prasarana 
+cd restfull-api-carekids
 ```
 
 ### Install Packages
